@@ -1,4 +1,7 @@
-### Hi 👋, I'm Eunji
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Hi%20I'm%20Eunji%20&fontSize=40&animation=scaleIn)
+
+<!--### Hi 👋, I'm Eunji-->
+
 - 📫 How to reach me **dmswl_0311@naver.com**
 
 ### :books: Experience 
