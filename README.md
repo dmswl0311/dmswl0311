@@ -2,7 +2,7 @@
 - 📫 How to reach me **dmswl_0311@naver.com**
 
 #### :fireworks: Experience 
-##### 　　1. DIP(Daegu Digital Industry Promotion Agency) Student Intern
+- DIP(Daegu Digital Industry Promotion Agency) Student Intern
 <!--
 **dmswl0311/dmswl0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
