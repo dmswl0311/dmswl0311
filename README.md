@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 ### :fireworks: Hits
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdmswl0311&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%231CDBED&title_bg=%23625C5C&icon=hey.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### :door: GitHub Stats
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dmswl0311&show_icons=true&theme=dracula)-->
