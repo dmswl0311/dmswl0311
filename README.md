@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=header&text=Hi👋,%20I'm%20Eunji%20&fontSize=30&animation=scaleIn)
+<!--![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=header&text=Hi👋,%20I'm%20Eunji%20&fontSize=30&animation=scaleIn)-->
 
 <!--### Hi 👋, I'm Eunji-->
 
-- 📫 How to reach me **dmswl_0311@naver.com**
+📫 How to reach me **dmswl_0311@naver.com**
 
 ### :mortar_board: Experience 
 - Yeungnam University, Computer Engineering
