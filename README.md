@@ -7,6 +7,7 @@
 ### :mortar_board: Experience 
 - Yeungnam University, Computer Engineering
 - DIP(Daegu Digital Industry Promotion Agency) Student Intern
+- [Implementation of the Unborrowed Book Recommendation System for Public Libraries: Based on Daegu D Library](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002718378) 
 <!--
 **dmswl0311/dmswl0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,7 +28,6 @@ Here are some ideas to get you started:
 <img alt="SPRING BOOT" src="https://img.shields.io/badge/springboot%20-%6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/> 
 <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
-<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <img alt="mysql" src="https://img.shields.io/badge/mysql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
 <!--
