@@ -22,6 +22,6 @@
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dmswl0311&show_icons=true&theme=dracula) -->
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dmswl0311)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdmswlek)](https://solved.ac/whdmswlek) -->
-<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=whdmswlek)](https://solved.ac/whdmswlek) -->
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=whdmswlek)](https://solved.ac/whdmswlek)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dmswl0311)](https://github.com/ryo-ma/github-profile-trophy)
