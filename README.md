@@ -5,7 +5,7 @@
 - Yeungnam University, Computer Engineering
 - DIP(Daegu Digital Industry Promotion Agency) Student Intern
 - [Implementation of the Unborrowed Book Recommendation System for Public Libraries: Based on Daegu D Library](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002718378) 
-- SSAFY(Samsung Software Academy For Youth) 6기 1학기 이수
+- 삼성 청년 SW 아카데미(SSAFY) 6기 
 
 ### :wrench: Tech Stack 
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -22,6 +22,7 @@
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dmswl0311&show_icons=true&theme=dracula) -->
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dmswl0311)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdmswlek)](https://solved.ac/whdmswlek) -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=whdmswlek)](https://solved.ac/whdmswlek)
+<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=whdmswlek)](https://solved.ac/whdmswlek) -->
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=whdmswlek)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dmswl0311)](https://github.com/ryo-ma/github-profile-trophy) -->
