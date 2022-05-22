@@ -1,5 +1,7 @@
 
-📫 How to reach me **dmswl_0311@naver.com**
+📫 How to reach me **dmswl_0311@naver.com** 
+
+📄 [포트폴리오](https://eunji-portfolio.super.site/)
 
 ### :mortar_board: Experience 
 - Yeungnam University, Computer Engineering
