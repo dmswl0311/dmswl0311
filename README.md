@@ -4,7 +4,7 @@
 
 📫 How to reach me **dmswl_0311@naver.com** 
 
-📄 [포트폴리오](https://eunji-portfolio.super.site/)
+🎄 [포트폴리오](https://eunji-portfolio.super.site/)
 
 ### :mortar_board: Experience 
 - CJ ENM 커머스부문 플랫폼개발팀
@@ -12,7 +12,7 @@
 -  DIP(Daegu Digital Industry Promotion Agency) Student Intern ( [Implementation of the Unborrowed Book Recommendation System for Public Libraries: Based on Daegu D Library](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002718378) )
 - Yeungnam University, Computer Engineering
 
-## My Skill Set  
+### My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
